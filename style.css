@@ -59,7 +59,7 @@ textarea {
 }
 
 .btn {
-	display: block;
+	display: inline-block;
 	width: 100%;
 	background: #b98b73;
 	color: #ffe8d6;
@@ -68,4 +68,5 @@ textarea {
 	cursor: pointer;
 	outline: none;
 	margin-top: 1rem;
+	text-align: center;
 }
